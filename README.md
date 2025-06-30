@@ -33,3 +33,14 @@ Trying out various algorithms and fine-tuing them turned out to be interesting, 
 1. Linear regression algos exhibit limitations as feature count and variance increases. The problem is typically high bias(underfitting) which can be partially overcome with `PolynomialFeatures`
 2. Neuaral network are unpredicatable for smaller datatsets. However, with repeated training and higher data variety, the accuracy can be improved.
 3. Decision Trees and Random Forests have tendancy of high variance(overfitting) on training data. With hyper-parameter tuning the test data accuracy can be improved while making sure the model can generalize well.
+
+### A few visualizations from the project
+#### Feature correlations
+![image](https://github.com/user-attachments/assets/baa5cf02-d655-48f9-8f2d-d6f4b298adbd)
+#### Solar output by day of the week
+![image](https://github.com/user-attachments/assets/e63a6136-b3c7-4b45-a8e2-a7977d9dfc9a)
+#### Tuned NN predictions
+![image](https://github.com/user-attachments/assets/8c02bc87-e40e-44d2-8a7c-318d1caf305d)
+#### R2 score vs. Decision Tree max_leaf_nodes
+![image](https://github.com/user-attachments/assets/f84a6948-d181-4bea-b825-ddc4b40c3089)
+
