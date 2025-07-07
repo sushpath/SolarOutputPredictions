@@ -1,4 +1,4 @@
-idx,datetime,tempmax,tempmin,temp,dew,humidity,precip,precipprob,precipcover,cloudcover,solarradiation,solarenergy,solartime
+,datetime,tempmax,tempmin,temp,dew,humidity,precip,precipprob,precipcover,cloudcover,solarradiation,solarenergy,solartime
 0,2025-01-01,29.0,16.1,22.0,15.8,70.6,0.0,0,0.0,3.2,212.9,18.5,662.33
 1,2025-01-02,30.8,14.9,22.1,13.6,63.1,0.0,0,0.0,8.9,218.2,18.8,662.62
 2,2025-01-03,29.3,12.9,21.0,10.4,56.5,0.0,0,0.0,30.0,222.0,19.2,662.92
