@@ -1,0 +1,6 @@
+*.tsv
+*.log
+py39env/
+mlartifacts/
+catboost_info/
+mlruns/
